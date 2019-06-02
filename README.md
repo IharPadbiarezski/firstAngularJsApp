@@ -1,3 +1,3 @@
-# firstAngularApp
--My first Angular App
-Link:  https://iharpadbiarezski.github.io/firstAngularApp/
+# firstAngularJsApp
+-My first AngularJs App
+Link:  https://iharpadbiarezski.github.io/firstAngularJsApp/
